@@ -1,0 +1,150 @@
+entity.lmreengaged.LittleMaid.name=LittleMaid
+
+item.lmreengaged:spawn_littlemaid_egg.name=Gerar LittleMaid
+item.lmreengaged:registerkey.name=Â§eRegistrador de Gatilho de Item
+item.lmreengaged:maidporter.name=Empregada Doméstica
+
+achievement.contract=Realização
+achievement.contract.desc=Empregue uma LittleMaid
+achievement.fencer=Proteja nosso mestre!
+achievement.fencer.desc=Fazer LittleMaid Modo "Esgrimista"
+achievement.bloodsucker=Ni6HTmAR3 paRA VC
+achievement.bloodsucker.desc=Fazer LittleMaid Modo "Assassina Aleatória" ou "Assassina Fantasma"
+achievement.archer=Você não pode escapar
+achievement.archer.desc=Fazer LittleMaid Modo "Arqueira"
+achievement.blazingstar=Nada pode me tocar
+achievement.blazingstar.desc=Fazer LittleMaid Modo "Blazing Star"
+achievement.cooking=Eu "cozinhei" ferro!?
+achievement.cooking.desc=Fazer LittleMaid Modo "Cozinheira"
+achievement.farmer="Não pode sentir a brisa? Obtenha ShadersMod agora..."
+achievement.farmer.desc=Fazer LittleMaid Modo "Garota Segadora" ou "Fazendeira"
+achievement.healer=Nosso mestre está sempre cheio
+achievement.healer.desc=Fazer LittleMaid Modo "Curandeira"
+achievement.pharmacist=C6H4(COOH)(OH)+(CH3CO)2O=?
+achievement.pharmacist.desc=Fazer LittleMaid Modo "Farmacêutica"
+achievement.ripper=Volte, Verde!
+achievement.ripper.desc=Fazer LittleMaid Modo "Tosquiadora"
+achievement.torcher=Tenho medo de fantasmas...
+achievement.torcher.desc=Fazer LittleMaid Modo "Camada de Tocha"
+
+achievement.zombuster=Esta é uma pá com uma marca de dente!
+achievement.zombuster.desc="Pegue isto e comece a cavar!"
+
+achievement.overprtct=Superproteção
+achievement.overprtct.desc="Esta é a armadura mais resistente."
+
+achievement.ashikubi=Ai. Isso dói :(
+achievement.ashikubi.desc="Apenas pernas feridas? Você está quase morto."
+
+achievement.boost=Motto atsuku nareyo!
+achievement.boost.desc="Em vez de açúcar? ... De jeito nenhum.
+
+achievement.myfavorite=Minhas Coisas Favoritas
+achievement.myfavorite.desc="Açúcares brancos prateados que se fundem ..."
+
+littleMaidMob.mode.Torcher=Tocheira
+littleMaidMob.mode.F-Torcher=Tocheira(Livre)
+littleMaidMob.mode.T-Torcher=Tocheira(Traço RS)
+
+littleMaidMob.mode.Archer=Arqueira
+littleMaidMob.mode.F-Archer=Defensora de área(A)
+littleMaidMob.mode.T-Archer=Defensora de área(A)(Traço RS)
+littleMaidMob.mode.Blazingstar=Blazing Star
+littleMaidMob.mode.F-Blazingstar=Blazing Star(Livre)
+littleMaidMob.mode.T-Blazingstar=Blazing Star(Traço RS)
+
+littleMaidMob.mode.Playing=Jogando
+littleMaidMob.mode.F-Playing=Jogando
+littleMaidMob.mode.T-Playing=Jogando
+
+littleMaidMob.mode.Pharmacist=Farmacêutica
+littleMaidMob.mode.F-Pharmacist=Farmacêutica(Livre)
+littleMaidMob.mode.T-Pharmacist=Farmacêutica(Traço RS)
+
+littleMaidMob.mode.Healer=Curandeira
+littleMaidMob.mode.F-Healer=Curandeira(Livre)
+littleMaidMob.mode.T-Healer=Curandeira(Traço RS)
+
+littleMaidMob.mode.Cooking=Cozinheira
+littleMaidMob.mode.F-Cooking=Cozinheira(Livre)
+littleMaidMob.mode.T-Cooking=Cozinheira(Traço RS)
+
+littleMaidMob.mode.Strike=Ataque
+littleMaidMob.mode.Wait=Espera
+littleMaidMob.mode.Wild=Selvagem
+littleMaidMob.mode.Escorter=Escolta
+littleMaidMob.mode.F-Escorter=Liberdade
+littleMaidMob.mode.T-Escorter=Traço RedStone
+
+littleMaidMob.mode.Fencer=Esgrimista
+littleMaidMob.mode.F-Fencer=Defensora de área(S)
+littleMaidMob.mode.T-Fencer=Defensora de área(S)(Traço RS)
+littleMaidMob.mode.Bloodsucker=Assassina Aleatória
+littleMaidMob.mode.F-Bloodsucker=Assassina Fantasma
+littleMaidMob.mode.T-Bloodsucker=Assassina Fantasma(Traço RS)
+
+littleMaidMob.mode.Ripper=Tosquiadora
+littleMaidMob.mode.F-Ripper=Tosquiadora(Livre)
+littleMaidMob.mode.T-Ripper=Tosquiadora(Traço RS)
+littleMaidMob.mode.TNT-D=TNT-D
+littleMaidMob.mode.F-TNT-D=TNT-D
+littleMaidMob.mode.T-TNT-D=TNT-D
+littleMaidMob.mode.Detonator=Bombardeira
+littleMaidMob.mode.F-Detonator=Bombardeira
+littleMaidMob.mode.T-Detonator=Bombardeira
+
+littleMaidMob.mode.Farmer=Garota Segadora
+littleMaidMob.mode.F-Farmer=Fazendeira
+littleMaidMob.mode.T-Farmer=Fazendeira(Traço RS)
+littleMaidMob.mode.FarmPorter=Porteira(Desativada)
+littleMaidMob.mode.F-FarmPorter=Porteira(Livre)
+littleMaidMob.mode.T-FarmPorter=Porteira(Traço RS)
+
+littleMaidMob.mode.DeathWait=Fatalmente Ferida
+littleMaidMob.mode.F-DeathWait=Fatalmente Ferida
+littleMaidMob.mode.T-DeathWait=Fatalmente Ferida
+
+littleMaidMob.text.Health=Saúde
+littleMaidMob.text.AP=AP
+littleMaidMob.text.STATUS=Estado
+
+littleMaidMob.gui.toggle.inner.show=Mostrar textura interna da armadura
+littleMaidMob.gui.toggle.inner.hide=Esconder textura interna da armadura
+littleMaidMob.gui.toggle.innerlight.show=Mostrar a textura leve interna da armadura
+littleMaidMob.gui.toggle.innerlight.hide=Esconder a textura leve interna da armadura
+littleMaidMob.gui.toggle.outer.show=Mostrar textura exterior da armadura
+littleMaidMob.gui.toggle.outer.hide=Esconder textura exterior da armadura
+littleMaidMob.gui.toggle.outerlight.show=Mostrar a textura leve exterior da armadura
+littleMaidMob.gui.toggle.outerlight.hide=Esconder a textura leve exterior da armadura
+littleMaidMob.gui.toggle.swim.enable=Ativar Modo Natação
+littleMaidMob.gui.toggle.swim.disable=Desativar Modo Natação
+littleMaidMob.gui.toggle.freedom.enable=Mudar para Modo Liberdade
+littleMaidMob.gui.toggle.freedom.disable=Mudar para Modo Seguir
+
+littleMaidMob.gui.text.expboost=Impulsionador de Experiência
+
+littleMaidMob.gui.iff.title=Mudar mobs para Inimigos ou Amigáveis
+
+
+lmreengaged.Archer:Bow=Arqueira:Arco
+lmreengaged.Archer:Arrow=Arqueira:Flecha
+lmreengaged.Farmer:Hoe=Fazendeira:Enxada
+lmreengaged.Farmer:Seed=Fazendeira:Semente
+lmreengaged.Fencer:Sword=Esgrimista:Espada
+lmreengaged.Bloodsucker:Axe=Sanguessuga:Machado
+lmreengaged.Torch=Tocha
+
+littleMaidMob.chat.text.changeregistermode=Modo Registro de Gatilho alterado para: %s
+littleMaidMob.chat.text.readyregistration=Agora clique-direito com o item que você registrar como gatilho: %s
+littleMaidMob.chat.text.cancelregistration=Registro cancelado.
+littleMaidMob.chat.text.addtrigger=Item de gatilho registrado:Empregada[%s] %s / + %s
+littleMaidMob.chat.text.removetrigger=Item de gatilho removido:Empregada[%s] %s / +- %s
+littleMaidMob.chat.text.not_trigger=NÃO tem Item de Gatilho registrado:Empregada[%s] %s / - %s
+littleMaidMob.chat.text.reset_trigger=Item de gatilho removido:Empregada[%s] %s / Todos os Itens
+littleMaidMob.chat.text.warningcount=AVISO: O número de registros que restam: %d
+littleMaidMob.chat.text.endcount=O número de registros não está mais disponível. Crafte uma chave novamente.
+littleMaidMob.chat.text.death=Sua %s foi morta por %s
+littleMaidMob.chat.text.timedeath=Sua %s não pode mais suportar a dor de %s
+
+system.lmmnx.chat.text.newversion=Nova versão disponível
+system.lmmnx.chat.text.checkversion=Vá para: http://el-blacklab.net/
